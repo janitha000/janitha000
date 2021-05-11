@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a fullstack software engineer / blogger from Sri Lanka.
+
+Check out my website https://www.janithatennakoon.com/ for more info
+
 <!--
 **janitha000/janitha000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
