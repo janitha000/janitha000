@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a fullstack software engineer / blogger from Sri Lanka.
+Engineering Lead & Senior Full-Stack Engineer with extensive experience building scalable web applications and guiding technical teams. Specialized in Node.js, Angular, .NET, Next.js, and React, with complete end-to-end SDLC ownership—from initial stakeholder alignment and system design to delivery, release, and post-launch maintenance. Based in Sri Lanka, I bridge technical execution with human-centric design to build seamless, high-performance digital experiences.
 
-* Check out my website https://www.janithatennakoon.com/ for more info
+* Check out my website https://personnel-profile.vercel.app/ for more info
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janitha000&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
